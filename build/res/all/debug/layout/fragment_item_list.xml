@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="4dp"
+    android:paddingRight="8dp"
+    android:paddingLeft="8dp"
+    android:paddingTop="4dp"
+    tools:context="f1.notice.board.ItemFragment">
+
+    <ExpandableListView
+        android:paddingTop="?android:actionBarSize"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/expandableListView"
+        android:dividerHeight="4dp"
+        android:drawSelectorOnTop="false"
+        android:childDivider="@android:color/transparent"
+        android:divider="@android:color/transparent"
+        android:groupIndicator="@null"/>
+
+    <TextView
+        android:id="@android:id/empty"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center" />
+
+</FrameLayout><!-- From: file:/C:/Users/Antec/SkyDrive/Android/NoticeBoard/notice/src/main/res/layout/fragment_item_list.xml -->

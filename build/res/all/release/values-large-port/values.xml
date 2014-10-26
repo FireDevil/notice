@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Antec/SkyDrive/Android/NoticeBoard/notice/src/main/res/values-large-port/refs.xml -->
+    <eat-comment />
+
+    <item name="activity_not_twopane" type="layout">@layout/twopane_port</item>
+
+</resources>

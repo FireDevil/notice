@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="f1.notice.board.MainActivity" >
+
+    <item android:id="@+id/search"
+        android:title="Search"
+        android:orderInCategory="100"
+        android:actionViewClass="android.widget.SearchView"
+        android:icon="@drawable/ic_action_search"
+        android:showAsAction="always|collapseActionView" />
+
+    <item android:id="@+id/refresh_feed"
+        android:icon="@drawable/ic_action_refresh"
+        android:title="refresh"
+        android:orderInCategory="100"
+        android:showAsAction="always"/>
+
+    <item android:id="@+id/email"
+        android:icon="@drawable/ic_action_new_email"
+        android:title="Feedback"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/remove_ad"
+        android:icon="@drawable/ic_action_accounts"
+        android:title="Remove Ads"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"/>
+    
+
+</menu>

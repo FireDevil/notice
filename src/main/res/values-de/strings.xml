@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">F1 Notice Board</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="copyright">Der Text dieses Paragraphen ist zitiert aus dem originalen Dokument welches der FIA gehört.
+        \nAlle Urheberrechte dieses Textes und Teile dessen gehören der FIA.
+        \nDiese App ist inoffiziell und in keiner Weise mit der Formula One Unternehmensgruppe verbunden. F1, FORMULA ONE, FORMULA 1, FIA FORMULA ONE WORLD CHAMPIONSHIP, GRAND PRIX, FORMULA ONE Paddock Club, Paddock Club und verwandte Marken sind Marken der Formula One Licensing BV
+        \nBitte melden Sie sich umgehend in jedem Fall von Urherberrechtsverletzung.</string>
+    <string name="resultsFound">Ergebnisse für: \'</string>
+    <string name="tableContent">Content</string>
+    <string name="tableTableOfContent">TableOfContent</string>
+    <string name="tableTweets">Tweets</string>
+    <string name="tableRecent">RecentSearch</string>
+    <string name="littleMore">ein bisschen mehr...</string>
+    <string name="getSuggestions">...für Vorschläge</string>
+    <string name="searchedBefore">Zuvor gesucht: </string>
+    <string name="time_s">\t Mal</string>
+    <string name="Sporting">Sporting Regulations</string>
+    <string name="Technical">Technical Regulations</string>
+    <string name="noResults">Keine Ergebnisse für diese Anfrage gefunden. Entschuldigung dafür!</string>
+    <string name="findOriginals">Seite auf der Sie dieses Text im Originaldokument finden:	</string>
+    <string name="recentlyChanged">Der Text dieses Abschnitts wurde kürzlich aktualisiert: \t</string>
+    <string name="didSelect">So oft haben Sie diesen Artikel gesehen: \t</string>
+    <string name="downloaded">Heruntergeladen am: </string>
+    <string name="searchHint">Suche</string>
+    <string name="emailAdd">info@android-timing.com</string>
+    <string name="emailSubject">F1 Notice Board Feedback</string>
+    <string name="emailPopUp">Sende Rückmeldung...</string>
+    <string name="noNetwork">Keine Netzwerkverbindung verfügbar</string>
+    <string name="updates">Aktualisierungen</string>
+    <string name="search">Suche</string>
+    <string name="wellStructured">Ziemlich gut strukturiert oder?! ;)</string>
+    <string name="noResultsYet">Derzeit keine Ergebnisse</string>
+    <string name="searched">Gesucht: </string>
+    <string name="searchedOnce">1x gesucht</string>
+
+<string name="ad_unit_id">ca-app-pub-3339452278602876/9916854341</string>
+<string name="fnb">FNB</string>
+<string name="Overview">Übersicht</string>
+    <string name="upgrading">Thank you for upgrading!</string>
+</resources>

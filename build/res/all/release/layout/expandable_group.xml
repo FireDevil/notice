@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/card">
+
+    <TextView
+        android:layout_width="0dip"
+        android:layout_weight="0.5"
+        android:paddingLeft="4dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/expandableGroupNum"
+        android:maxWidth="70dp"
+        android:textSize="30sp"
+        android:textColor="@android:color/holo_red_dark" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="0dip"
+        android:paddingLeft="4dp"
+        android:layout_weight="2"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Large Text"
+            android:id="@+id/expandableGroupName"
+            android:textColor="@android:color/black" />
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="0dip"
+                    android:layout_weight="1"
+                    android:gravity="start|bottom"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:id="@+id/expandableGroupInfo"
+                    android:textColor="#888888" />
+
+                <TextView
+                    android:layout_width="0dip"
+                    android:layout_weight="1"
+                    android:gravity="bottom|end"
+                    android:layout_height="match_parent"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:id="@+id/expandableGroupSite"
+                    android:textColor="#888888"
+                    android:paddingRight="5dp" />
+
+            </TableRow>
+        </TableRow>
+
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/C:/Users/Antec/SkyDrive/Android/NoticeBoard/notice/src/main/res/layout/expandable_group.xml -->

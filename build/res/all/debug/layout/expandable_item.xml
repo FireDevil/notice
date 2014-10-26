@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:paddingRight="4dp"
+        android:paddingLeft="4dp"
+        android:background="#b7b7b7">
+
+        <TextView
+            android:layout_width="0dip"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/expandableItemNumber"
+            android:maxHeight="50dip"
+            android:gravity="center"
+            android:textSize="22sp"
+            android:textColor="@android:color/black" />
+
+        <TextView
+            android:layout_width="0dip"
+            android:layout_weight="3"
+            android:layout_height="match_parent"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/expandableItemText"
+            android:minHeight="50dip"
+            android:gravity="center_vertical|left"
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/C:/Users/Antec/SkyDrive/Android/NoticeBoard/notice/src/main/res/layout/expandable_item.xml -->

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notice Board (for F1)</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_search_results">SearchResultsActivity</string>
+    <string name="copyright">The text of this paragraph is cited from the original document which is owned by the FIA.
+        \nAll copyrights belonging this text or parts of it are owned by the FIA.
+        \nThis App is unofficial and is not associated in any way with the Formula One group of companies. F1, FORMULA ONE, FORMULA 1, FIA FORMULA ONE WORLD CHAMPIONSHIP, GRAND PRIX, FORMULA ONE PADDOCK CLUB, PADDOCK CLUB and related marks are trade marks of Formula One Licensing B.V.
+        \nFeel to contact the developer in any case of copyright infringement.</string>
+    <string name="resultsFound">Results for: \'</string>
+    <string name="tableContent">Content</string>
+    <string name="tableTableOfContent">TableOfContent</string>
+    <string name="tableTweets">Tweets</string>
+    <string name="tableRecent">RecentSearch</string>
+    <string name="littleMore">a little bit more...</string>
+    <string name="getSuggestions">...to get suggestions</string>
+    <string name="searchedBefore">Searched before </string>
+    <string name="time_s">\t time(s)</string>
+    <string name="Sporting">Sporting Regulations</string>
+    <string name="Technical">Technical Regulations</string>
+    <string name="noResults">No Results found which match your search. Sorry for that!</string>
+    <string name="findOriginals">Site on which you find this text in the original document:	</string>
+    <string name="recentlyChanged">The text of this section is recently changed: \t</string>
+    <string name="didSelect">You did select this article \t</string>
+    <string name="downloaded">downloaded: </string>
+    <string name="searchHint">Search</string>
+    <string name="emailAdd">info@android-timing.com</string>
+    <string name="emailSubject">F1 Notice Board Feedback</string>
+    <string name="emailPopUp">Send feedback...</string>
+    <string name="noNetwork">No network connection available</string>
+    <string name="updates">Updates</string>
+    <string name="search">Search</string>
+    <string name="wellStructured">Pretty well structured, isn\'t it?! ;)</string>
+    <string name="noResultsYet">No search results yet</string>
+    <string name="searched">Searched </string>
+    <string name="searchedOnce">Searched once</string>
+
+    <string name="ad_unit_id">ca-app-pub-3339452278602876/9916854341</string>
+    <string name="fnb">FNB</string>
+    <string name="Overview">Overview</string>
+    <string name="already_own_item">You already own this item</string>
+    <string name="upgrading">Thank you for upgrading!</string>
+</resources>

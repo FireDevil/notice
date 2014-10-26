@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\Antec\SkyDrive\Android\NoticeBoard\notice\src\main\assets" >
+            <file
+                name="fia.db"
+                path="C:\Users\Antec\SkyDrive\Android\NoticeBoard\notice\src\main\assets\fia.db" />
+            <file
+                name="google-play-services.jar"
+                path="C:\Users\Antec\SkyDrive\Android\NoticeBoard\notice\src\main\assets\google-play-services.jar" />
+            <file
+                name="gson-2.2.4.jar"
+                path="C:\Users\Antec\SkyDrive\Android\NoticeBoard\notice\src\main\assets\gson-2.2.4.jar" />
+        </source>
+    </dataSet>
+    <dataSet config="release" >
+        <source path="C:\Users\Antec\SkyDrive\Android\NoticeBoard\notice\src\release\assets" />
+    </dataSet>
+
+</merger>

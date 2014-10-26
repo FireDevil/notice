@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- From: file:/C:/Users/Antec/SkyDrive/Android/NoticeBoard/notice/src/main/res/values/color.xml -->
+    <eat-comment />
+
+    <color name="blue">#0000ff</color>
+    <!-- From: file:/C:/Users/Antec/SkyDrive/Android/NoticeBoard/notice/build/exploded-aar/com.google.android.gms/play-services/4.2.42/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <!-- From: file:/C:/Users/Antec/SkyDrive/Android/NoticeBoard/notice/src/main/res/values/color.xml -->
+    <eat-comment />
+
+    <color name="copyright">#ff545454</color>
+    <color name="green">#00ff00</color>
+    <color name="red">#ff0000</color>
+    <!-- From: file:/C:/Users/Antec/SkyDrive/Android/NoticeBoard/notice/build/exploded-aar/com.google.android.gms/play-services/4.2.42/res/values/ads_attrs.xml -->
+    <eat-comment />
+
+    <declare-styleable name="AdsAttrs">
+
+        <!--
+    The size of the ad. It must be one of BANNER, FULL_BANNER, LEADERBOARD,
+    MEDIUM_RECTANGLE, SMART_BANNER, WIDE_SKYSCRAPER, or
+    &lt;width&gt;x&lt;height&gt;.
+        -->
+        <attr name="adSize" format="string" />
+
+        <!--
+    A comma-separated list of the supported ad sizes. The sizes must be one of
+    BANNER, FULL_BANNER, LEADERBOARD, MEDIUM_RECTANGLE, SMART_BANNER,
+    WIDE_SKYSCRAPER, or &lt;width&gt;x&lt;height&gt;.
+        -->
+        <attr name="adSizes" format="string" />
+
+        <!-- The ad unit ID. -->
+        <attr name="adUnitId" format="string" />
+    </declare-styleable>
+    <!-- From: file:/C:/Users/Antec/SkyDrive/Android/NoticeBoard/notice/build/exploded-aar/com.google.android.gms/play-services/4.2.42/res/values/maps_attrs.xml -->
+    <eat-comment />
+
+    <declare-styleable name="MapAttrs">
+        <attr name="mapType" format="enum">
+            <enum name="none" value="0" />
+            <enum name="normal" value="1" />
+            <enum name="satellite" value="2" />
+            <enum name="terrain" value="3" />
+            <enum name="hybrid" value="4" />
+        </attr>
+        <attr name="cameraBearing" format="float" />
+        <attr name="cameraTargetLat" format="float" />
+        <attr name="cameraTargetLng" format="float" />
+        <attr name="cameraTilt" format="float" />
+        <attr name="cameraZoom" format="float" />
+        <attr name="uiCompass" format="boolean" />
+        <attr name="uiRotateGestures" format="boolean" />
+        <attr name="uiScrollGestures" format="boolean" />
+        <attr name="uiTiltGestures" format="boolean" />
+        <attr name="uiZoomControls" format="boolean" />
+        <attr name="uiZoomGestures" format="boolean" />
+        <attr name="useViewLifecycle" format="boolean" />
+        <attr name="zOrderOnTop" format="boolean" />
+    </declare-styleable>
+    <!-- From: file:/C:/Users/Antec/SkyDrive/Android/NoticeBoard/notice/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="ad_padding">50dp</dimen>
+    <dimen name="navigation_drawer_width">240dp</dimen>
+    <!-- From: file:/C:/Users/Antec/SkyDrive/Android/NoticeBoard/notice/build/exploded-aar/com.google.android.gms/play-services/4.2.42/res/values/version.xml -->
+    <eat-comment />
+
+    <integer name="google_play_services_version">4242000</integer>
+    <!-- From: file:/C:/Users/Antec/SkyDrive/Android/NoticeBoard/notice/src/main/res/values/refs.xml -->
+    <eat-comment />
+
+    <item name="fragment_item" type="layout">@layout/fragment_item_list</item>
+    <item name="fragment_result" type="layout">@layout/fragment_result_list</item>
+    <!-- From: file:/C:/Users/Antec/SkyDrive/Android/NoticeBoard/notice/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="Overview">Overview</string>
+    <string name="Sporting">Sporting Regulations</string>
+    <string name="Technical">Technical Regulations</string>
+    <string name="ad_unit_id">ca-app-pub-3339452278602876/9916854341</string>
+    <string name="already_own_item">You already own this item</string>
+    <string name="app_name">Notice Board (for F1)</string>
+    <!-- From: file:/C:/Users/Antec/SkyDrive/Android/NoticeBoard/notice/build/exploded-aar/com.google.android.gms/play-services/4.2.42/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="auth_client_needs_enabling_title">      An application requires Google Play Services to be enabled.</string>
+    <string name="auth_client_needs_installation_title">      An application requires installation of Google Play Services.</string>
+    <string name="auth_client_needs_update_title">      An application requires an update for Google Play Services.</string>
+    <string name="auth_client_play_services_err_notification_msg">Google Play services error</string>
+    <string name="auth_client_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string name="auth_client_using_bad_version_title">      An application attempted to use a bad version of Google Play Services.</string>
+    <string name="common_google_play_services_enable_button" msgid="2523291102206661146">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text" msgid="227660514972886228">This app won\'t work unless you enable Google Play services.</string>
+    <string name="common_google_play_services_enable_title" msgid="5122002158466380389">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button" msgid="7153882981874058840">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone" msgid="2122112764540849864">This app won\'t run without Google Play services, which are missing from your phone.</string>
+    <string name="common_google_play_services_install_text_tablet" msgid="7351599665250191022">This app won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string name="common_google_play_services_install_title" msgid="7215213145546190223">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_date_text">The date on the device appears to be incorrect. Please check the date on the device.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button" msgid="6556509956452265614">Update</string>
+    <string name="common_google_play_services_update_text" msgid="9053896323427875356">This app won\'t run unless you update Google Play services.</string>
+    <string name="common_google_play_services_update_title" msgid="1788179980625863495">Update Google Play services</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <!-- From: file:/C:/Users/Antec/SkyDrive/Android/NoticeBoard/notice/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="copyright">The text of this paragraph is cited from the original document which is owned by the FIA.
+        \nAll copyrights belonging this text or parts of it are owned by the FIA.
+        \nThis App is unofficial and is not associated in any way with the Formula One group of companies. F1, FORMULA ONE, FORMULA 1, FIA FORMULA ONE WORLD CHAMPIONSHIP, GRAND PRIX, FORMULA ONE PADDOCK CLUB, PADDOCK CLUB and related marks are trade marks of Formula One Licensing B.V.
+        \nFeel to contact the developer in any case of copyright infringement.</string>
+    <string name="didSelect">You did select this article \t</string>
+    <string name="downloaded">downloaded: </string>
+    <string name="emailAdd">info@android-timing.com</string>
+    <string name="emailPopUp">Send feedback...</string>
+    <string name="emailSubject">F1 Notice Board Feedback</string>
+    <string name="findOriginals">Site on which you find this text in the original document:	</string>
+    <string name="fnb">FNB</string>
+    <string name="getSuggestions">...to get suggestions</string>
+    <string name="littleMore">a little bit more...</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="noNetwork">No network connection available</string>
+    <string name="noResults">No Results found which match your search. Sorry for that!</string>
+    <string name="noResultsYet">No search results yet</string>
+    <string name="recentlyChanged">The text of this section is recently changed: \t</string>
+    <string name="resultsFound">Results for: \'</string>
+    <string name="search">Search</string>
+    <string name="searchHint">Search</string>
+    <string name="searched">Searched </string>
+    <string name="searchedBefore">Searched before </string>
+    <string name="searchedOnce">Searched once</string>
+    <string name="tableContent">Content</string>
+    <string name="tableRecent">RecentSearch</string>
+    <string name="tableTableOfContent">TableOfContent</string>
+    <string name="tableTweets">Tweets</string>
+    <string name="time_s">\t time(s)</string>
+    <string name="title_activity_search_results">SearchResultsActivity</string>
+    <string name="updates">Updates</string>
+    <string name="upgrading">Thank you for upgrading!</string>
+    <string name="wellStructured">Pretty well structured, isn\'t it?! ;)</string>
+    <!-- From: file:/C:/Users/Antec/SkyDrive/Android/NoticeBoard/notice/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.Holo"></style>
+
+    <style name="CustomActionBarTheme" parent="@android:style/Theme.Holo">
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+
+</resources>

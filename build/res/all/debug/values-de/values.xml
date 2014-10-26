@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- From: file:/C:/Users/Antec/SkyDrive/Android/NoticeBoard/notice/src/main/res/values-de/strings.xml -->
+    <eat-comment />
+
+    <string name="Overview">Übersicht</string>
+    <string name="Sporting">Sporting Regulations</string>
+    <string name="Technical">Technical Regulations</string>
+    <string name="ad_unit_id">ca-app-pub-3339452278602876/9916854341</string>
+    <string name="app_name">F1 Notice Board</string>
+    <!-- From: file:/C:/Users/Antec/SkyDrive/Android/NoticeBoard/notice/build/exploded-aar/com.google.android.gms/play-services/4.2.42/res/values-de/strings.xml -->
+    <eat-comment />
+
+    <string name="auth_client_needs_enabling_title" msgid="3983201110833868073">"App erfordert aktivierte Google Play-Dienste"</string>
+    <string name="auth_client_needs_installation_title" msgid="7999585836145154206">"App erfordert die Installation von Google Play-Diensten"</string>
+    <string name="auth_client_needs_update_title" msgid="6488605506794595966">"App erfordert ein Update für Google Play-Dienste"</string>
+    <string name="auth_client_play_services_err_notification_msg" msgid="3635065018897986478">"Fehler bei Google Play-Diensten"</string>
+    <string name="auth_client_requested_by_msg" msgid="6304135633531965756">"Angefordert von <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string name="auth_client_using_bad_version_title" msgid="2534454398764507874">"App versuchte, defekte Google Play-Dienste-Version zu verwenden"</string>
+    <string name="common_google_play_services_enable_button" msgid="4181637455539816337">"Google Play-Dienste aktivieren"</string>
+    <string name="common_google_play_services_enable_text" msgid="7627896071867667758">"Diese App funktioniert nur, wenn Sie die Google Play-Dienste aktivieren."</string>
+    <string name="common_google_play_services_enable_title" msgid="529078775174559253">"Google Play-Dienste aktivieren"</string>
+    <string name="common_google_play_services_install_button" msgid="8515591849428043265">"Google Play-Dienste installieren"</string>
+    <string name="common_google_play_services_install_text_phone" msgid="8685301130651051380">"Zur Nutzung dieser App sind Google Play-Dienste erforderlich, die auf Ihrem Telefon nicht installiert sind."</string>
+    <string name="common_google_play_services_install_text_tablet" msgid="1589957570365247855">"Zur Nutzung dieser App sind Google Play-Dienste erforderlich, die auf Ihrem Tablet nicht installiert sind."</string>
+    <string name="common_google_play_services_install_title" msgid="26645092511305524">"Google Play-Dienste installieren"</string>
+    <string name="common_google_play_services_invalid_account_text" msgid="4983316348021735578">"Das angegebene Konto ist auf diesem Gerät nicht vorhanden. Bitte wählen Sie ein anderes Konto aus."</string>
+    <string name="common_google_play_services_invalid_account_title" msgid="1066672360770936753">"Ungültiges Konto"</string>
+    <string name="common_google_play_services_network_error_text" msgid="9038847255613537209">"Um eine Verbindung zu den Google Play-Diensten herzustellen, ist eine Datenverbindung erforderlich."</string>
+    <string name="common_google_play_services_network_error_title" msgid="3827284619958211114">"Netzwerkfehler"</string>
+    <string name="common_google_play_services_unknown_issue" msgid="4762332809710093730">"Unbekanntes Problem mit Google Play-Diensten"</string>
+    <string name="common_google_play_services_unsupported_date_text" msgid="4725396522367789365">"Das Datum auf dem Gerät scheint falsch zu sein. Bitte überprüfen Sie das Datum auf dem Gerät."</string>
+    <string name="common_google_play_services_unsupported_text" msgid="3542578567569488671">"Google Play-Dienste, auf denen einige Ihrer Apps basieren, werden von diesem Gerät nicht unterstützt. Wenden Sie sich für weitere Informationen an den Hersteller."</string>
+    <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Google Play-Dienste"</string>
+    <string name="common_google_play_services_update_button" msgid="8932944190611227642">"Aktualisieren"</string>
+    <string name="common_google_play_services_update_text" msgid="448354684997260580">"Diese App wird nur ausgeführt, wenn Sie die Google Play-Dienste aktualisieren."</string>
+    <string name="common_google_play_services_update_title" msgid="6006316683626838685">"Google Play-Dienste aktualisieren"</string>
+    <string name="common_signin_button_text" msgid="9071884888741449141">"Anmelden"</string>
+    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Über Google anmelden"</string>
+    <!-- From: file:/C:/Users/Antec/SkyDrive/Android/NoticeBoard/notice/src/main/res/values-de/strings.xml -->
+    <eat-comment />
+
+    <string name="copyright">Der Text dieses Paragraphen ist zitiert aus dem originalen Dokument welches der FIA gehört.
+        \nAlle Urheberrechte dieses Textes und Teile dessen gehören der FIA.
+        \nDiese App ist inoffiziell und in keiner Weise mit der Formula One Unternehmensgruppe verbunden. F1, FORMULA ONE, FORMULA 1, FIA FORMULA ONE WORLD CHAMPIONSHIP, GRAND PRIX, FORMULA ONE Paddock Club, Paddock Club und verwandte Marken sind Marken der Formula One Licensing BV
+        \nBitte melden Sie sich umgehend in jedem Fall von Urherberrechtsverletzung.</string>
+    <string name="didSelect">So oft haben Sie diesen Artikel gesehen: \t</string>
+    <string name="downloaded">Heruntergeladen am: </string>
+    <string name="emailAdd">info@android-timing.com</string>
+    <string name="emailPopUp">Sende Rückmeldung...</string>
+    <string name="emailSubject">F1 Notice Board Feedback</string>
+    <string name="findOriginals">Seite auf der Sie dieses Text im Originaldokument finden:	</string>
+    <string name="fnb">FNB</string>
+    <string name="getSuggestions">...für Vorschläge</string>
+    <string name="littleMore">ein bisschen mehr...</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="noNetwork">Keine Netzwerkverbindung verfügbar</string>
+    <string name="noResults">Keine Ergebnisse für diese Anfrage gefunden. Entschuldigung dafür!</string>
+    <string name="noResultsYet">Derzeit keine Ergebnisse</string>
+    <string name="recentlyChanged">Der Text dieses Abschnitts wurde kürzlich aktualisiert: \t</string>
+    <string name="resultsFound">Ergebnisse für: \'</string>
+    <string name="search">Suche</string>
+    <string name="searchHint">Suche</string>
+    <string name="searched">Gesucht: </string>
+    <string name="searchedBefore">Zuvor gesucht: </string>
+    <string name="searchedOnce">1x gesucht</string>
+    <string name="tableContent">Content</string>
+    <string name="tableRecent">RecentSearch</string>
+    <string name="tableTableOfContent">TableOfContent</string>
+    <string name="tableTweets">Tweets</string>
+    <string name="time_s">\t Mal</string>
+    <string name="updates">Aktualisierungen</string>
+    <string name="upgrading">Thank you for upgrading!</string>
+    <string name="wellStructured">Ziemlich gut strukturiert oder?! ;)</string>
+
+</resources>
